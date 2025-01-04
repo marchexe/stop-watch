@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+h1, h2, button {
+    margin: 0;
+}
+
+h2, button {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    gap: 1.25em;
+    padding: 0.5em;
+}
+
+button {
+    padding: 0.15em 0.6em;
+    font-size: 1rem;
+    cursor: pointer;
+}
+
+.buttons {
+    display: flex;
+    gap: 0.5em;
+}
