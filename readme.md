@@ -1,5 +1,5 @@
 ## a timerrr
 
-https://whznot.github.io/stop-watch
+https://marchexe.github.io/stop-watch
 
 ![hooorse img](image.jpg)
